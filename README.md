@@ -19,3 +19,10 @@ The built-in task timer feature allows users to set time limits for specific tas
 
 5. Chatbox Functionality:
 The integrated chatbox feature enables real-time communication between users. This fosters collaboration, quick decision-making, and the exchange of ideas. Users can discuss tasks, share updates, and seek clarifications within the same platform.
+
+Languages used:
+1. HTML
+2. CSS
+3. Java script
+
+This project is developed as task 1 for BharatIntern Internship Program 
